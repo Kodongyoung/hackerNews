@@ -1,0 +1,9 @@
+8
+33D:\Learning\hackerJs\package.json132804649729708370 0
+38D:\Learning\hackerJs\package-lock.json132804648945348091 0
+27D:\Learning\hackerJs\app.js132676007080000000 0
+25D:\Learning\hackerJs\dist132804650636485959 1
+31D:\Learning\hackerJs\index.html132676007080000000 0
+47D:\Learning\hackerJs\dist\index.833266ea.js.map132804650207718716 0
+43D:\Learning\hackerJs\dist\index.833266ea.js132804650207698813 0
+36D:\Learning\hackerJs\dist\index.html132804650207485715 0
